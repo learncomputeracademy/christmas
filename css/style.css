@@ -600,7 +600,7 @@ body.dark .copy-block p {
 }
 
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 400px) {
     header.d-flex {
         flex-direction: column;
     }
